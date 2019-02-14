@@ -8,6 +8,10 @@ Array [
     key="logo"
   >
     <Component />
+    <img
+      alt="Grafana"
+      src="public/img/cb-logo.png"
+    />
   </a>,
   <div
     className="sidemenu__logo_small_breakpoint"
